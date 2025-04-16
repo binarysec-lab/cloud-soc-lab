@@ -2,7 +2,9 @@
 
 # 🛡️ cloud-soc-lab
 
-📦 Microsoft Sentinel + Defender lab — real-world cloud security playbooks, tools, and SOPs.
+📦 Real-world Tier 3 cybersecurity workflows — Linux-based vaults, backup hygiene, SOPs, and operational tooling.
+
+---
 
 ---
 
